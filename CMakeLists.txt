@@ -24,6 +24,5 @@ source_group(src FILES ${SRC})
 source_group(jsonlib FILES ${INS})
 source_group(jsoncpp FILES ${SRS})
 
-
 add_executable(cfd ${INC} ${SRC} ${INS} ${SRS})
 target_link_libraries(cfd caffe ${OpenCV_LIBS})
