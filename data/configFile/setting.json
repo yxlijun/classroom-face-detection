@@ -1,0 +1,73 @@
+{
+   "cameraConfigList" : [
+      /*{
+         "cameraAccount" : "admin",
+         "cameraIp" : "192.168.66.28",
+         "cameraPassword" : "wst123456",
+         "id" : 1,
+         "nvrID" : 1,
+         "nvrPort" : 33
+      },*/
+      {
+         "cameraAccount" : "admin",
+         "cameraIp" : "192.168.66.29",
+         "cameraPassword" : "wst123456",
+         "id" : 1,
+         "nvrID" : 1,
+         "nvrPort" : 33
+      }
+   ],
+   "coursePeriodTime" : [
+      {
+         "endTime" : "09:40",
+         "restEndTime" : "08:55",
+         "restStartTime" : "08:45",
+         "startTime" : "08:00",
+         "periodNum":0
+      },
+       {
+         "endTime" : "11:50",
+         "periodNum" : 1,
+         "restEndTime" : "11:05",
+         "restStartTime" : "10:55",
+         "startTime" : "10:10"
+      },
+       {
+         "endTime" : "15:35",
+         "periodNum" : 2,
+         "restEndTime" : "14:50",
+         "restStartTime" : "14:45",
+         "startTime" : "14:00"
+      },
+       {
+         "endTime" : "17:30",
+         "periodNum" : 3,
+         "restEndTime" : "16:45",
+         "restStartTime" : "16:40",
+         "startTime" : "15:55"
+      },
+       {
+         "endTime" : "20:05",
+         "periodNum" : 4,
+         "restEndTime" : "19:20",
+         "restStartTime" : "19:15",
+         "startTime" : "18:30"
+      },
+       {
+         "endTime" : "21:50",
+         "periodNum" : 5,
+         "restEndTime" : "21:05",
+         "restStartTime" : "21:00",
+         "startTime" : "20:15"
+      }
+   ],
+   "nvr" : [
+      {
+         "id" : 1,
+         "nvrAccount" : "sss",
+         "nvrIp" : "192.168.1.12",
+         "nvrPassword" : "sss"
+      }
+   ]
+}
+

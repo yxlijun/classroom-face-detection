@@ -1,0 +1,15 @@
+{
+
+     "camerainfo":[
+       {
+           "ip":"192.168.66.28",
+           "password":"wst123456",
+           "username":"admin"
+       },
+       {
+           "ip":"192.168.66.29",
+            "password":"wst123456",
+           "username":"admin"
+       }
+   ],
+}

@@ -1,0 +1,4 @@
+build/
+tmp/
+model/jfda/
+mini-caffe/
